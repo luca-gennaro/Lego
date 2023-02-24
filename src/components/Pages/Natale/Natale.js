@@ -7,7 +7,6 @@ import PageHeader from "../../Ui/PageHeader/PageHeader";
 import Slider from "../../Ui/Slider/Slider";
 import Navbar from "../../Ui/Navbar/NavBar";
 import "./natale.css";
-import ButtonCta from "../../Ui/ButtonCta/ButtonCta";
 import InjectProductCard1 from "../../Ui/InjectProduct/InjectProduct";
 import Quicklinks from "./QuickLinks/Quicklinks";
 
